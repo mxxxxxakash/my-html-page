@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int 20, 10, sum;
+
+    printf("20: ");
+    scanf("%d", &20);
+
+    printf("20: ");
+    scanf("%d", &10);
+
+    sum = 20+ 10;
+
+    printf("Sum = %d\n", sum);
+
+    return 0;
+}
